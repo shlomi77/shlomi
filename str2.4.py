@@ -1,0 +1,6 @@
+sent = input("enetr sentence: ")
+print (len(sent))
+print(sent[2:6])
+list1=sent.split()
+print(list1[0]*3)
+print(str.capitalize(sent))
